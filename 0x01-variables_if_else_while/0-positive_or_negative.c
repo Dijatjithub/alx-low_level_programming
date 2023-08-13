@@ -26,6 +26,6 @@
         printf("is negative\n");
     }
 
-    return (0);
+    Return (0);
 }
 
